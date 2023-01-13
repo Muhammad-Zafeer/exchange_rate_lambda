@@ -1,0 +1,7 @@
+.serverless
+*.pyc
+*.pyo
+node_modules
+.idea
+__pycache__
+.requirements.zip
