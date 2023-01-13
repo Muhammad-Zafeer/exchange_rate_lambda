@@ -177,3 +177,14 @@ Response:
 
 Response:
 `[{"currency": "USD", "change": -0.0024999999999999467, "today": "USD", "yesterday": "USD", "type": "Decreased"},...`
+
+
+PEP8:
+For formating according to PEP8 using black (https://pypi.org/project/black/).
+To format code in virtualenv run this command:
+
+`black .`
+
+This will format the whole code automatically.
+
+
